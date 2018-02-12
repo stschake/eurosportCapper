@@ -1,1 +1,0 @@
-eurosportCapper <username> <password> 0 DE true
